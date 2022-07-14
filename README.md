@@ -54,6 +54,9 @@ dfx canister call icp_twenty_one createAchievement "first"
 dfx canister call icp_twenty_one confirmAchievement "1"
 ```
 
+![image](https://user-images.githubusercontent.com/4569866/178979469-9aa8c7c5-9223-429d-b731-467b063eed52.png)
+
+
 # based on EXT Standard
 ## The extendable token standard
 
